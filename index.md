@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Shijie Xu's CY
+title: Shijie Xu's CV
 ---
 # Dr. Shijie Xu
 
@@ -11,44 +11,39 @@ title: Shijie Xu's CY
 
 
 ## Currently
-
-Standing on the shoulders of giants
+- Responsible for System Reliability at Vipkid.
+- Block Chain and Virtural Machine, including Etherum Virtual Machine (EVM), JVM, Compilation etc, aiming to maximizing the hardware (e.g., Memory, GPU, and FPGA).
 
 ### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+- System performance and relibility in distributed System. 
+- Storage System
+- Virtual Machine. 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Virtual Machine, Compilation, Memory GC.
 
+## Occupation (Ask if you want learn detail)
+
+- `2013-2017` IBM Centre of Advanced Studies, Canada
+- `2010-2013` Yottaa Inc. 
+- `2007-2010` Alcatel-Lucent
+-  `2006`     IBM CRL
+[//]: `IBM`
+[//]: __Lucasian professor of Mathematics__, Cambridge University
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017`
+__Computer Science, PhD, University of New Brunswick. Cananda__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2007`
+__CS, MS, Tsinghua University, China__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
+`2004`
+__CS, BS. NorthWest University, China__
 
 - Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
 
 ## Publications
 1. Shijie Xu, David Bremner, Daniel Heidinga, **[Fusing Method Handle Graphs for Efficient Dynamic JVM Language Implementations](papers/vmil17.pdf)**, In Proceedings of the 9th ACM SIGPLAN International Workshop on Virtual Machines and Intermediate Languages (VMIL 2017). Vancouver, BC, Canada — October 24 - 24, 2017.
@@ -81,14 +76,14 @@ Associate, *French Academy of Science*, Paris, France
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Patents
+## Patents
 
 - Shijie Xu, Qi Li, Xuefeng Song. Data Migration in a Storage Network. JP2016528598A, CN105359481, US-9444891 **Granted**. 
 
 - Shijie Xu, Qi li, Xuefeng song.  Meta-app to Depict Cloud Environment Dependencies to Facilicate a Service Environment Rebuild. CN104272704, KR101617116B1, US-9118677 **Granted**.
 - Shijie Xu, Qi Li, Xuefeng Song. Formation of Guilds in a Cloud Computing Environment. KR20160027055, US9455868 **Granted**. 
-- Shijie Xu, Qi Li, Xuefeng Song. Virtual Machine Migration Based on Communication from Nodes. PCT/CN2014/079736, WO2015188346, US9578131 **Granted**. 
 
+- Shijie Xu, Qi Li, Xuefeng Song. Virtual Machine Migration Based on Communication from Nodes. PCT/CN2014/079736, WO2015188346, US9578131 **Granted**. 
 
 - Shijie Xu, Daniel Heidinga, and David Bremner. Method Handle Just-in-time compilation from bytecode to bytecode for efficient native just-in-time compilation. CA8-2016-0002. 
 - Shijie Xu, Daniel Heidinga, and David Bremner. Online Method Handle Deduplication System for Dynamic JVM Language Implementations. CA9-2016-0104US1.
@@ -105,21 +100,10 @@ Associate, *French Academy of Science*, Paris, France
 
 - Guang yao, Shijie Xu, Xuefeng Song, Network Controller Security Monitor. WO2016106480, US20160337247. 
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2018 -->
 
 
