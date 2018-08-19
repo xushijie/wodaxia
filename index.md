@@ -9,7 +9,7 @@ title: Shijie Xu's CV
 | Beijing (Hangzhou), China & Ottawa, Canada
 </div>
 <div id="webaddress">
-<a>WeChat:</a> | <a>weibo</a> [wodaxia-北纬82度-Alert](https://weibo.com/1912790084/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1) | twitter: [@wodaxia](https://twitter.com/wodaxia)
+<a>WeChat:</a> | <a href="https://weibo.com/1912790084/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1"> wodaxia-北纬82度-Alert</a>| twitter: <a href="https://twitter.com/wodaxia"> @wodaxia</a>
 </div>
 
 ## Currently
