@@ -45,7 +45,6 @@ __CS, MS, Tsinghua University, China__
 `2004`
 __CS, BS. NorthWest University, China__
 
-- Fellow
 
 ## Publications
 1. Shijie Xu, David Bremner, Daniel Heidinga, **[Fusing Method Handle Graphs for Efficient Dynamic JVM Language Implementations](papers/vmil17.pdf)**, In Proceedings of the 9th ACM SIGPLAN International Workshop on Virtual Machines and Intermediate Languages (VMIL 2017). Vancouver, BC, Canada — October 24 - 24, 2017.
