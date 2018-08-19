@@ -37,13 +37,13 @@ title: Shijie Xu's CV
 ## Education
 
 `2017`
-__Computer Science, PhD, University of New Brunswick. Cananda__
+__CS, Ph.D., University of New Brunswick. Cananda__
 
 `2007`
-__CS, MS, Tsinghua University, China__
+__CS, M.Sc., Tsinghua University, China__
 
 `2004`
-__CS, BS. NorthWest University, China__
+__CS, B.Sc. NorthWest University, China__
 
 
 ## Publications
