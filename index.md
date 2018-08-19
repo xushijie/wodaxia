@@ -9,24 +9,25 @@ title: Shijie Xu's CV
 | Beijing (Hangzhou), China & Ottawa, Canada
 </div>
 <div id="webaddress">
-<a>WeChat:</a>
+<a>WeChat:</a> | <a>weibo</a> [wodaxia-北纬82度-Alert](https://weibo.com/1912790084/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1) | twitter: [@wodaxia](https://twitter.com/wodaxia)
 </div>
-
-
 
 ## Currently
 - Responsible for System Reliability at Vipkid.
-- Block Chain and Virtual Machine, including Ethereum Virtual Machine (EVM), JVM, Compilation etc.
-- I am doing an intensive research works to speed up system runtime, especially for AI frameworks (e.g., tensor-flow) and Block-chains, at both virtual machine level and hardware level. 
+- Dynamically Typed Languages and Virtual Machine, including Ethereum Virtual Machine (EVM), JVM, Compilation etc.
+- Endeavor to speed up system runtime, especially for AI frameworks (e.g., tensor-flow) and Block-chains, at both virtual machine level (Currency, JIT and GC) and hardware level (memory, GPU, FPGA). 
 
 ### Specialized in
 - System performance and reliability in distributed System. 
 - Storage System
-- Virtual Machine. 
-
-### Research interests
-
 - Virtual Machine, Compilation, Memory Management (GC) algorithm.
+
+### Short Words
+- I had been building systems, e.g., Corba, web services and cloud service, to help customers distributed service around cloud and against DDoS and Flash crowd. 
+- At IBM, I worked on J9 JVM: 
+    - research, implementation, and optimization of JSR 292 *invokedynamic*.
+    - Garbage Collection. 
+	- Currency and hardware specific optimization.
 
 ## Occupation (Ask me if you want learn detail)
 
