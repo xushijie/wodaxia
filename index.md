@@ -6,13 +6,14 @@ title: Shijie Xu's CV
 
 <div id="webaddress">
 <a href="shijie.xu.work@gmail.com">shijie.xu.work@gmail.com</a>
-| Beijing, China & Ottawa, Canada
+| Beijing (Hangzhou), China & Ottawa, Canada
 </div>
 
 
 ## Currently
 - Responsible for System Reliability at Vipkid.
-- Block Chain and Virtual Machine, including Ethereum Virtual Machine (EVM), JVM, Compilation etc, aiming to maximize the hardware (e.g., Memory, GPU, and FPGA).
+- Block Chain and Virtual Machine, including Ethereum Virtual Machine (EVM), JVM, Compilation etc.
+- I am doing an intensive research works to speed up system runtime, especially for AI frameworks (e.g., tensor-flow) and Block-chains, at both virtual machine level and hardware level. 
 
 ### Specialized in
 - System performance and reliability in distributed System. 
@@ -77,30 +78,30 @@ __CS, BS. NorthWest University, China__
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-## Patents
-- Shijie Xu, Qi Li, Xuefeng Song. Data Migration in a Storage Network. JP2016528598A, CN105359481, US-9444891 **Granted**. 
+## Selected Patents
 
-- Shijie Xu, Qi li, Xuefeng song.  Meta-app to Depict Cloud Environment Dependencies to Facilicate a Service Environment Rebuild. CN104272704, KR101617116B1, US-9118677 **Granted**.
+- Shijie Xu, Qi Li, Xuefeng Song. Data Migration in a Storage Network. JP2016528598A, CN105359481, US-9444891. **Granted** 
 
-- Shijie Xu, Qi Li, Xuefeng Song. Formation of Guilds in a Cloud Computing Environment. KR20160027055, US9455868 **Granted**. 
+- Shijie Xu, Qi li, Xuefeng song.  Meta-app to Depict Cloud Environment Dependencies to Facilicate a Service Environment Rebuild. CN104272704, KR101617116B1, US-9118677 **Granted**
 
-- Shijie Xu, Qi Li, Xuefeng Song. Virtual Machine Migration Based on Communication from Nodes. PCT/CN2014/079736, WO2015188346, US9578131 **Granted**. 
+- Shijie Xu, Qi Li, Xuefeng Song. Formation of Guilds in a Cloud Computing Environment. KR20160027055, US9455868 **Granted**
 
-- Shijie Xu, Daniel Heidinga, and David Bremner. Method Handle Just-in-time compilation from bytecode to bytecode for efficient native just-in-time compilation. CA8-2016-0002. 
+- Shijie Xu, Qi Li, Xuefeng Song. Virtual Machine Migration Based on Communication from Nodes. PCT/CN2014/079736, WO2015188346, US9578131 **Granted**
 
-- Shijie Xu, Daniel Heidinga, and David Bremner. Online Method Handle Deduplication System for Dynamic JVM Language Implementations. CA9-2016-0104US1.
+- Shijie Xu, Daniel Heidinga, and David Bremner. Method Handle Just-in-time compilation from bytecode to bytecode for efficient native just-in-time compilation. CA8-2016-0002 
 
-- Shijie Xu, Xuefeng Song. Parting Data to Improve System Performance. CN104508636, US20140337288. 
+- Shijie Xu, Daniel Heidinga, and David Bremner. Online Method Handle Deduplication System for Dynamic JVM Language Implementations. CA9-2016-0104US1
 
-- Shijie Xu, Qi Li, Xuefeng Song. Compilation of Application Into Multiple Instruction Sets for a Heterogeneous Processor. PCT/CN2014/074114, WO2015143641. 
+- Shijie Xu, Xuefeng Song. Parting Data to Improve System Performance. CN104508636, US20140337288 
 
-- Shijie Xu, Qi Li, Xuefeng Song. Data Cache on a Cloud Platform. US20150312368. 
+- Shijie Xu, Qi Li, Xuefeng Song. Compilation of Application Into Multiple Instruction Sets for a Heterogeneous Processor. PCT/CN2014/074114, WO2015143641
 
-- Shijie Xu, Jie Chen, Qi Li, Xuefeng Song. Scene Image Generator. PCT/CN2014/088281, WO2016054800, US20160253832.
+- Shijie Xu, Qi Li, Xuefeng Song. Data Cache on a Cloud Platform. US20150312368
 
-- Guang Yao, Shijie Xu, Qi Li Xuefeng Song, Malicious Virtual Machine Alert Generator. US20160255103. 
+- Shijie Xu, Jie Chen, Qi Li, Xuefeng Song. Scene Image Generator. PCT/CN2014/088281, WO2016054800, US20160253832
 
-- Guang yao, Shijie Xu, Xuefeng Song, Network Controller Security Monitor. WO2016106480, US20160337247. 
+- Guang Yao, Shijie Xu, Qi Li Xuefeng Song, Malicious Virtual Machine Alert Generator. US20160255103
+- Guang yao, Shijie Xu, Xuefeng Song, Network Controller Security Monitor. WO2016106480, US20160337247
 
 
 
