@@ -57,7 +57,7 @@ Lingfang Zeng, Shijie Xu, Yang Wang, Kenneth B. Kent, David Bremner and Chengzho
 
 Lingfang Zeng, Shijie Xu, Yang Wang, VMBackup: an efficient framework for online virtual machine image backup and recovery. Concurrency and Computation: Practice and Experience 28(9): 2630-2643 (2016).
 
-Shijie Xu, David Bremner, Daniel Heidinga, [MHDeS: Deduplicating Method Handle Graphs for Efficient Dynamic JVM Language Implementations](./papers/deduplication.pdf). In Proceedings of the 11th Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems (ICOOOLPS'16) with ECOOP'16, 18 July 2016 Rome, Italy.
+Shijie Xu, David Bremner, Daniel Heidinga, **[MHDeS: Deduplicating Method Handle Graphs for Efficient Dynamic JVM Language Implementations](./papers/deduplication.pdf)**. In Proceedings of the 11th Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems (ICOOOLPS'16) with ECOOP'16, 18 July 2016 Rome, Italy.
 
 
 Shijie Xu, David Bremner, Daniel Heidinga, Mining Method Handle Graphs for Efficient Dynamic JVM Languages, ACM proceedings 12th Conference on Principles and Practices of Programming on the Java Platform: virtual machines, languages, and tools (PPPJ’15) , Melbourne, Florida, USA.
