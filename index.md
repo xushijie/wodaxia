@@ -23,8 +23,8 @@ title: Shijie Xu's CV
 - Virtual Machine, Compilation, Memory Management (GC) algorithm.
 
 ### Short Words
-- I had been building systems, e.g., Corba, web services and cloud service, to help customers distributed service around cloud and against DDoS and Flash crowd. 
-- At IBM, I worked on J9 JVM: 
+- 6-year experiences in building systems, e.g., Corba, web services and cloud service, to help customers distributed service around cloud and against DDoS and Flash crowd. 
+- 4-year experience on J9 JVM (omr): 
     - research, implementation, and optimization of JSR 292 *invokedynamic*.
     - Garbage Collection. 
 	- Currency and hardware specific optimization.
