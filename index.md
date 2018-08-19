@@ -8,6 +8,10 @@ title: Shijie Xu's CV
 <a href="shijie.xu.work@gmail.com">shijie.xu.work@gmail.com</a>
 | Beijing (Hangzhou), China & Ottawa, Canada
 </div>
+<div id="webaddress">
+<a>WeChat:</a>
+</div>
+
 
 
 ## Currently
