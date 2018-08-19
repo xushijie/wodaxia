@@ -12,26 +12,27 @@ title: Shijie Xu's CV
 
 ## Currently
 - Responsible for System Reliability at Vipkid.
-- Block Chain and Virtural Machine, including Etherum Virtual Machine (EVM), JVM, Compilation etc, aiming to maximizing the hardware (e.g., Memory, GPU, and FPGA).
+- Block Chain and Virtual Machine, including Ethereum Virtual Machine (EVM), JVM, Compilation etc, aiming to maximize the hardware (e.g., Memory, GPU, and FPGA).
 
 ### Specialized in
-- System performance and relibility in distributed System. 
+- System performance and reliability in distributed System. 
 - Storage System
 - Virtual Machine. 
 
 ### Research interests
 
-- Virtual Machine, Compilation, Memory GC.
+- Virtual Machine, Compilation, Memory Management (GC) algorithm.
 
-## Occupation (Ask if you want learn detail)
+## Occupation (Ask me if you want learn detail)
 
 - `2013-2017` IBM Centre of Advanced Studies, Canada
 - `2010-2013` Yottaa Inc. 
 - `2007-2010` Alcatel-Lucent
 -  `2006`     IBM CRL
-[//]: `IBM`
-[//]: __Lucasian professor of Mathematics__, Cambridge University
 
+<!-- `IBM`
+[//]: __Lucasian professor of Mathematics__, Cambridge University
+-->
 ## Education
 
 `2017`
@@ -77,15 +78,16 @@ __CS, BS. NorthWest University, China__
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ## Patents
-
 - Shijie Xu, Qi Li, Xuefeng Song. Data Migration in a Storage Network. JP2016528598A, CN105359481, US-9444891 **Granted**. 
 
 - Shijie Xu, Qi li, Xuefeng song.  Meta-app to Depict Cloud Environment Dependencies to Facilicate a Service Environment Rebuild. CN104272704, KR101617116B1, US-9118677 **Granted**.
+
 - Shijie Xu, Qi Li, Xuefeng Song. Formation of Guilds in a Cloud Computing Environment. KR20160027055, US9455868 **Granted**. 
 
 - Shijie Xu, Qi Li, Xuefeng Song. Virtual Machine Migration Based on Communication from Nodes. PCT/CN2014/079736, WO2015188346, US9578131 **Granted**. 
 
 - Shijie Xu, Daniel Heidinga, and David Bremner. Method Handle Just-in-time compilation from bytecode to bytecode for efficient native just-in-time compilation. CA8-2016-0002. 
+
 - Shijie Xu, Daniel Heidinga, and David Bremner. Online Method Handle Deduplication System for Dynamic JVM Language Implementations. CA9-2016-0104US1.
 
 - Shijie Xu, Xuefeng Song. Parting Data to Improve System Performance. CN104508636, US20140337288. 
