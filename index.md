@@ -27,7 +27,7 @@ title: Shijie Xu's CV
 - 4-year experience on J9 JVM (omr): 
     - research, implementation, and optimization of JSR 292 *invokedynamic*.
     - Garbage Collection. 
-	- Currency and hardware specific optimization.
+	- Concurrency and hardware specific optimization.
 
 ## Occupation (Ask me if you want learn detail)
 
