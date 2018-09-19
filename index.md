@@ -9,13 +9,13 @@ title: Shijie Xu's CV
 | Beijing (Hangzhou), China & Ottawa, Canada
 </div>
 <div id="webaddress">
-<a>WeChat:</a> | <a href="https://weibo.com/1912790084/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1"> wodaxia-北纬82度-Alert</a>| twitter: <a href="https://twitter.com/wodaxia"> @wodaxia</a>
+<a>WeChat:</a> | <a href="https://weibo.com/1912790084/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1"> wodaxia-北纬82度-Alert</a>| twitter: <a href="https://twitter.com/wodaxia"> @wodaxia</a> | stackoverflow： <a href='https://stackoverflow.com/users/910118/shijie-xu'> Shijie Xu</a>
 </div>
 
 ## Currently
 - Responsible for System Reliability at Vipkid.
 - Dynamically Typed Languages and Virtual Machine, including Ethereum Virtual Machine (EVM), JVM, Compilation etc.
-- Endeavor to speed up system runtime, especially for AI frameworks (e.g., tensor-flow) and Block-chains, at both virtual machine level (Currency, JIT and GC) and hardware level (memory, GPU, FPGA). 
+- Endeavor to speed up system runtime, especially for AI frameworks (e.g., tensor-flow) and Block-chains, at both virtual machine level (Concurrency, JIT and GC) and hardware level (memory, GPU, FPGA). 
 
 ### Specialized in
 - System performance and reliability in distributed System. 
