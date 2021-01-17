@@ -1,44 +1,75 @@
 ---
 layout: cv
-title: Shijie Xu's CV
+title: Shijie Xu 
 ---
+<!--
 # Dr. Shijie Xu
-
-<div id="webaddress">
+-->
+<div align="center" id="webaddress">
 <a href="shijie.xu.work@gmail.com">shijie.xu.work@gmail.com</a>
 | Beijing (Hangzhou), China & Ottawa, Canada
 </div>
-<div id="webaddress">
-<a>WeChat:</a> | <a href="https://weibo.com/1912790084/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1"> wodaxia-北纬82度-Alert</a>| twitter: <a href="https://twitter.com/wodaxia"> @wodaxia</a> | stackoverflow： <a href='https://stackoverflow.com/users/910118/shijie-xu'> Shijie Xu</a>
+
+<div align="center" id="webaddress">
+twitter: <a href="https://twitter.com/wodaxia"> @wodaxia</a> | stackoverflow： <a href='https://stackoverflow.com/users/910118/shijie-xu'> Shijie Xu</a> | Phone: 86-13671245484
 </div>
 
 ## Currently
-- Responsible for System Reliability at Vipkid.
-- Dynamically Typed Languages and Virtual Machine, including Ethereum Virtual Machine (EVM), JVM, Compilation etc.
-- Endeavor to speed up system runtime, especially for AI frameworks (e.g., tensor-flow) and Block-chains, at both virtual machine level (Concurrency, JIT and GC) and hardware level (memory, GPU, FPGA). 
-
+- System Reliability and Education-Intelligence (Real-time Data Warehouse, Knowledge Graph and Recommendation) at VIPKID, and planning for the next EDU generation. 
+- Dynamically Typed Languages and Virtual Machine, including Ethereum Virtual Machine (EVM), JVM and Beam, and concentrating on JIT compilation and memory management.
+<!--
+- Endeavor to speed up system runtime, especially for AI frameworks and Block-chains, at both virtual machine level (Concurrency, JIT and GC) and hardware level (memory, GPU). 
+-->
+<!--
 ### Specialized in
-- System performance and reliability in distributed System. 
+- System performance and reliability in distributed System
 - Storage System
 - Virtual Machine, Compilation, Memory Management (GC) algorithm.
+-->
 
 ### Short Words
-- 6-year experiences in building systems, e.g., Corba, web services and cloud service, to help customers distributed service around cloud and against DDoS and Flash crowd. 
-- 4-year experience on J9 JVM (omr): 
-    - research, implementation, and optimization of JSR 292 *invokedynamic*.
+- 8-year experiences in building systems, focusing on system concurrency, high throughput, and reliability. 
+- 5-year experiences on J9 JVM (OMR) and JRuby: 
+    - Research, implementation, and optimization of JSR 292 *invokedynamic*.
+    - Graph Compilation and optimization.
     - Garbage Collection. 
 	- Concurrency and hardware specific optimization.
 
-## Occupation (Ask me if you want learn detail)
+## Occupation
 
-- `2013-2017` IBM Centre of Advanced Studies, Canada
-- `2010-2013` Yottaa Inc. 
-- `2007-2010` Alcatel-Lucent
--  `2006`     IBM CRL
+- `2017-now`  Sr. Architect, __VIPKID__, Beijing
 
-<!-- `IBM`
-[//]: __Lucasian professor of Mathematics__, Cambridge University
--->
+    Currently responsible for system reliability in systems(eg., Question Bank, Homework, Evaluation, Test, Report and Assessment) in EDU department, and product road-map for the next EDU generation.
+    - a) Promoted and carried out Homework reconstruction to consolidate system reliability; b) Pioneered, launched, and led Education-Intelligence project, including real-time EDU data warehouse, recommendation system, knowledge graph center, big data processor and algorithm models, to understand and improve education quality for future products; c) Launched adaptive learning (early version), based on EI, and cooperated with 9 teams to roll it into production, and gained 12 percent Renewal Rate increment.
+    - a) Led a four-member team, and established Goods-Mid-Platform(ie., Packaged Business Capability) from scratch. Advanced GMP to host all KID's e-commerce products (ie. DamiWangxiao, QiMeng Camp and CoinShop), and to assist Order product successfully. Finally the platform reduced the effort to deliver innovate bizs on e-commerce from months to 1- week and to support new sale strategies within 3 days; b) Directed the refactoring of the whole E-Commence system and Learning-Center (Px Services) in DamiWangxiao. After rolling into production, the latter obtained 6x QPS speedup; c) Designed and implemented lock-free datasyn system that united data from heterogeneous sources into mid-goods database, and this provided a core prototype for real-time data warehouse in EI platform. 
+    - Launched, designed and operation&maintenance (SRE)--full-stack-- Minimal Value Product(MVP) ecosystem that monitored and secured online student classes to against failures in the VIPKID's critical service chain. MVP rescued 0.5+ million student's classes and achieved 92\% Rescued Rate in 2018. To handle traffic volume that original critical services with 600+ instances handled in 10 minutes, the core service with 3 instances in MVP only accomplished it within 30s. 
+    - Employee hiring, team setup from scratch and engineering culture building.
+
+
+- `2013-2017` PhD and Research Assistant, __IBM Centre of Advanced Studies__, Canada
+   
+    Research on runtime for dynamic type programming languages and focus on graph compialtion and code generation&optimization (and also for GPU); Analyzed JSR292(Supporting Dynamic type languages on JVM) implementation in J9, and proposed and implemented following ideas:
+    - Profiling and Data Mining. Built tools to capture method handle graphs created by dynamic language interpreters, and to mining frequent patterns and equivalences.
+    - _Metis_ A memory allocator that profiles GC information, and places objects in contiguous groups when these objects are likely to be recycled together. It reduces memory fragmentation by 40+\% and GC overhead.
+    - _MHDeS_ A system that constructs graph index keys to identify and deduplicate equivalent method handle graphs at program runtime, for the purpose of language interpretation speedup (5\%) and JIT efficiency (e.g., earlier JIT and less JIT).
+    - _GraphJIT_ A bytecode JIT compiler that simplifies a graph by fusing its internal nodes and uses the compiled version to replace the source graph for execution. It applies to JSR292 in J9, and speeds up JRuby by 7+\% and JIT compilation effort.
+    - Research on supporting parallel stream with GPU, and delivered a prototype that jit *invokdynamic* into NVVM IR for parallel steam API in Java 8.
+    - Assist to review __JVM Specification for Java 8__ on *invokedynamic* part.
+   
+- `2010-2013` Tech Leader, __Yottaa Inc__, Beijing. 
+
+    - Designed and built Yottaa platform system from scratch with my colleagues; helped company complete series B and C rounds and initial customers.
+    - Explored various opportunities to speed up customer's sites from low level network protocols to high level data content optimizations; proposed and delivered Yottaa multi-cache, content optimization, cloud scaling and load balance.
+    - Operated two-member monitor team that captured and analyzed sites' performance data; coordinated with platform and UI teams; and delivered scripting monitoring system and daily measure data mining successfully.
+ 
+- `2007-2010` team leader, __Alcatel-Lucent__, Beijing
+    - Project Coordination at Wireless Interface Control Language(WICL) Team. 
+    - Led and delivered WICL features; supported issues from both internal AL and customer sites.
+    - Initiated and researched WICL Java implementation (i.e., eXCL); upgraded WICL framework from CORBA BOA to POA; and Distributed system. 
+    - Research Tcl Interpreter and built CorbaTcl to enable the interpreter support CORBA dynamic invocations and dynamical type system for WICL system.
+
+-  `2006`     IBM CRL, Beijing
+
 ## Education
 
 `2017`
