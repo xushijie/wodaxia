@@ -30,7 +30,6 @@ title: Shijie Xu's CV
 	- Currency and hardware specific optimization.
 
 ## Occupation (Ask me if you want learn detail)
-
 - `2013-2017` IBM Centre of Advanced Studies, Canada
 - `2010-2013` Yottaa Inc. 
 - `2007-2010` Alcatel-Lucent
@@ -83,6 +82,7 @@ __CS, B.Sc. NorthWest University, China__
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ## Selected Patents
+- David D. Bremner, Daniel J. Heidinga, Shijie Xu, Online method handle deduplication, Patent number: 10649797, 20190138332,  **Granted** 
 - Shijie Xu, Qi Li, Xuefeng Song. Data Migration in a Storage Network. JP2016528598A, CN105359481, US-9444891. **Granted** 
 - Shijie Xu, Qi li, Xuefeng song.  Meta-app to Depict Cloud Environment Dependencies to Facilicate a Service Environment Rebuild. CN104272704, KR101617116B1, US-9118677 **Granted**
 - Shijie Xu, Qi Li, Xuefeng Song. Formation of Guilds in a Cloud Computing Environment. KR20160027055, US9455868 **Granted**
