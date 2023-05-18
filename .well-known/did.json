@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:osp.advance.ai",
+  "verificationMethod": [
+    {
+      "id": "did:web:osp.advance.ai#owner",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:osp.advance.ai",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "secp256k1",
+        "x": "7afa3a377b5808e4223dd62542a6e7e46ab0be95873464520193c1857ec2bb8f",
+        "y": "58b050b73f31f1b8b98c0b04513257433bdad2a51188642d8b0e515fbfb3125f"
+      }
+    }
+  ],
+  "authentication": [
+    "did:web:osp.advance.ai#owner"
+  ],
+  "assertionMethod": [
+    "did:web:osp.advance.ai#owner"
+  ]
+}
