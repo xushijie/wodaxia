@@ -7,43 +7,52 @@ title: Shijie Xu
 -->
 <div align="center" id="webaddress">
 <a href="shijie.xu.work@gmail.com">shijie.xu.work@gmail.com</a>
-| Beijing (Hangzhou), China & Ottawa, Canada
+| Beijing, China
 </div>
 
+<!-- 
 <div align="center" id="webaddress">
 twitter: <a href="https://twitter.com/wodaxia"> @wodaxia</a> | stackoverflow： <a href='https://stackoverflow.com/users/910118/shijie-xu'> Shijie Xu</a> | Phone: 86-13671245484
 </div>
-
+-->
+<!-- 
 ## Currently
 - System Reliability and Education-Intelligence (Real-time Data Warehouse, Knowledge Graph and Recommendation) at VIPKID, and planning for the next EDU generation. 
 - Dynamically Typed Languages and Virtual Machine, including Ethereum Virtual Machine (EVM), JVM and Beam, and concentrating on JIT compilation and memory management.
+--> 
 <!--
 - Endeavor to speed up system runtime, especially for AI frameworks and Block-chains, at both virtual machine level (Concurrency, JIT and GC) and hardware level (memory, GPU). 
 -->
+
 <!--
 ### Specialized in
 - System performance and reliability in distributed System
-- Storage System
-- Virtual Machine, Compilation, Memory Management (GC) algorithm.
+- Virtual Machine, Compilation, Memory Management (GC), computer architecture.
 -->
 
 ### Short Words
-- 8-year experiences in building systems, focusing on system concurrency, high throughput, and reliability. 
-- 5-year experiences on J9 JVM (OMR) and JRuby: 
-    - Research, implementation, and optimization of JSR 292 *invokedynamic*.
-    - Graph Compilation and optimization.
-    - Garbage Collection. 
-	- Concurrency and hardware specific optimization.
+- 10-year experiences in building software systems, focusing on system concurrency, high throughput, and reliability. 
+- 6-year experiences on programming language run-times(J9/OMR, JRuby, Erlang Beam, and Ehtereum VM), focusing on JIT compilation, Graph Compilation, memory and concurrency
+- 4-year experiences in enterprise level web SaaS system for identification.
 
-## Occupation
 
-- `2017-now`  Sr. Architect, __VIPKID__, Beijing
+## Experiences
 
-    Currently responsible for system reliability in systems(eg., Question Bank, Homework, Evaluation, Test, Report and Assessment) in EDU department, and product road-map for the next EDU generation.
-    - a) Promoted and carried out Homework reconstruction to consolidate system reliability; b) Pioneered, launched, and led Education-Intelligence project, including real-time EDU data warehouse, recommendation system, knowledge graph center, big data processor and algorithm models, to understand and improve education quality for future products; c) Launched adaptive learning (early version), based on EI, and cooperated with 9 teams to roll it into production, and gained 12 percent Renewal Rate increment.
-    - a) Led a four-member team, and established Goods-Mid-Platform(ie., Packaged Business Capability) from scratch. Advanced GMP to host all KID's e-commerce products (ie. DamiWangxiao, QiMeng Camp and CoinShop), and to assist Order product successfully. Finally the platform reduced the effort to deliver innovate bizs on e-commerce from months to 1- week and to support new sale strategies within 3 days; b) Directed the refactoring of the whole E-Commence system and Learning-Center (Px Services) in DamiWangxiao. After rolling into production, the latter obtained 6x QPS speedup; c) Designed and implemented lock-free datasyn system that united data from heterogeneous sources into mid-goods database, and this provided a core prototype for real-time data warehouse in EI platform. 
-    - Launched, designed and operation&maintenance (SRE)--full-stack-- Minimal Value Product(MVP) ecosystem that monitored and secured online student classes to against failures in the VIPKID's critical service chain. MVP rescued 0.5+ million student's classes and achieved 92\% Rescued Rate in 2018. To handle traffic volume that original critical services with 600+ instances handled in 10 minutes, the core service with 3 instances in MVP only accomplished it within 30s. 
-    - Employee hiring, team setup from scratch and engineering culture building.
+- `2021, Mar- now`,  Architect, __AdvanceAI__, Beijing
+
+    As a tech leader&architect for platform team, I
+    - design and build architecture of Onestop Orchestration Platform(OSP) from scratch, an Enterprise-Level Web SaaS to enable financial customers setup business workflows to conduct AML&KYC&KYB, and fulfill financial regulation in Southeast Asia countries. OSP achieved initial four angel customers with SLA 99% after MVP.
+    - setup and manage platform team up to 25 engineers and QAs, ensuring they stay on track to meet team goals and deadlines, while also providing guidance and mentorship to help them develop their skills.
+    - Responsible for complete System and Organization Control (SOC2) audit. 
+    - As a motivated engineer with a passion for new ideas and technologies, I have built Proof of Concepts (POCs) for Decentralized Identifiers (DID), Zero-Knowledge Proofs (ZKP), and Knowledge Graphs with ChatGPT. These tools have been used for risk identification and anti-money laundering(AML).
+ 
+- `2017, Dec -2021, Mar`,  Sr. Architect, __VIPKID__, Beijing
+
+    I have been in business architecture, E-Commence, and EDU departments during three years, and my responsibilities mainly cover system building, SRE, and innovative project incubation.
+    - Pioneered, launched, and led Education-Intelligence project, including real-time EDU data warehouse, recommendation system, knowledge graph center, real-time big data processor and algorithm models, for adaptive learning with the goal of measuring and improving education quality. The project involved 6 teams in KID and gained 7\% score increment on TOEFL Primary Test.
+    - a) Led a four-member team, and built Goods-Platform and Order-Platform from scratch. Both projects supported all existing KID subsidiaries, and reduced engineering efforts from two weeks to 2 days for new sale strategies; b) Directed and re-engineering E-Commence system&Learning-Center (Px Services) in DamiWangxiao, and achieved 6x QPS speedup; c) Designed and implemented lock-free datasyn system that united data from heterogeneous sources into mid-goods database, and this provided a core prototype for real-time data warehouse in EI platform;  
+    - As one of core leaders for VIPKID stability construction, I designed the overall stability solution and promoted solution across the whole RD teams, and achieved 99.92% SLA after one year. Meanwhile, I designed, implemented--full-stack-- Minimal Value Product(MVP) ecosystem that monitored and secured online student classes to against any failure (e.g., system and cloud failure) in the VIPKID's critical service chain. MVP rescued 0.5+ million student's classes and achieved 92\% Rescued Rate in 2018. To handle traffic volume that original critical services with 600+ instances handled in 10 minutes, the core service with 3 instances in MVP only accomplished it within 30s. 
+    - Hiring, team setup and engineering culture building.
 
 
 - `2013-2017` PhD and Research Assistant, __IBM Centre of Advanced Studies__, Canada
@@ -54,7 +63,10 @@ twitter: <a href="https://twitter.com/wodaxia"> @wodaxia</a> | stackoverflow： 
     - _MHDeS_ A system that constructs graph index keys to identify and deduplicate equivalent method handle graphs at program runtime, for the purpose of language interpretation speedup (5\%) and JIT efficiency (e.g., earlier JIT and less JIT).
     - _GraphJIT_ A bytecode JIT compiler that simplifies a graph by fusing its internal nodes and uses the compiled version to replace the source graph for execution. It applies to JSR292 in J9, and speeds up JRuby by 7+\% and JIT compilation effort.
     - Research on supporting parallel stream with GPU, and delivered a prototype that jit *invokdynamic* into NVVM IR for parallel steam API in Java 8.
-    - Assist to review __JVM Specification for Java 8__ on *invokedynamic* part.
+    - Assist to review __JVM Specification for Java 8__ on *invokedynamic* part and research RISC-V.
+    - Teacher assistant
+
+<!--    - Assist to review __JVM Specification for Java 8__ on *invokedynamic* part.  -->
    
 - `2010-2013` Tech Leader, __Yottaa Inc__, Beijing. 
 
@@ -63,12 +75,10 @@ twitter: <a href="https://twitter.com/wodaxia"> @wodaxia</a> | stackoverflow： 
     - Operated two-member monitor team that captured and analyzed sites' performance data; coordinated with platform and UI teams; and delivered scripting monitoring system and daily measure data mining successfully.
  
 - `2007-2010` team leader, __Alcatel-Lucent__, Beijing
-    - Project Coordination at Wireless Interface Control Language(WICL) Team. 
-    - Led and delivered WICL features; supported issues from both internal AL and customer sites.
-    - Initiated and researched WICL Java implementation (i.e., eXCL); upgraded WICL framework from CORBA BOA to POA; and Distributed system. 
+    - Responsible for Wireless Interface Control Language(WICL) language implementation. 
+    - Upgraded WICL framework from CORBA BOA to POA;
     - Research Tcl Interpreter and built CorbaTcl to enable the interpreter support CORBA dynamic invocations and dynamical type system for WICL system.
 
--  `2006`     IBM CRL, Beijing
 
 ## Education
 
@@ -85,9 +95,9 @@ __CS, B.Sc. NorthWest University, China__
 ## Publications
 1. Shijie Xu, David Bremner, Daniel Heidinga, **[Fusing Method Handle Graphs for Efficient Dynamic JVM Language Implementations](papers/vmil17.pdf)**, In Proceedings of the 9th ACM SIGPLAN International Workshop on Virtual Machines and Intermediate Languages (VMIL 2017). Vancouver, BC, Canada — October 24 - 24, 2017.
 
-2. Lingfang Zeng, Shijie Xu, Yang Wang, Kenneth B. Kent, David Bremner and Chengzhong Xu, **[Toward cost-effective replica placements in cloud storage systems with QoS-awareness]()**. Softw. Pract. Exper (2016).
+2. [**SCI**]Lingfang Zeng, Shijie Xu, Yang Wang, Kenneth B. Kent, David Bremner and Chengzhong Xu, **[Toward cost-effective replica placements in cloud storage systems with QoS-awareness]()**. Softw. Pract. Exper (2016).
 
-3. Lingfang Zeng, Shijie Xu, Yang Wang, **[VMBackup: an efficient framework for online virtual machine image backup and recovery]()**. Concurrency and Computation: Practice and Experience 28(9): 2630-2643 (2016).
+3. [**SCI**]Lingfang Zeng, Shijie Xu, Yang Wang, **[VMBackup: an efficient framework for online virtual machine image backup and recovery]()**. Concurrency and Computation: Practice and Experience 28(9): 2630-2643 (2016).
 
 4. Shijie Xu, David Bremner, Daniel Heidinga, **[MHDeS: Deduplicating Method Handle Graphs for Efficient Dynamic JVM Language Implementations](./papers/deduplication.pdf)**. In Proceedings of the 11th Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems (ICOOOLPS'16) with ECOOP'16, 18 July 2016 Rome, Italy.
 
@@ -99,7 +109,7 @@ __CS, B.Sc. NorthWest University, China__
 
 8. Chi-Hung Chi, Shijie Xu, FengLin Li, Kwok-Yan Lam, Selection Policy of Rescue Servers Based on Workload Characterization of Flash Crowd, 2010 Sixth International Conference on Semantics, Knowledge and Grids, Beijing, 2010, pp. 293-296.
 
-9. BangYu Wu, Chi-Hung Chi, Shijie Xu, Ming Gu, JiaGuang Sun, Fast Service Selection Based on Multi-Dimensional QoS Requirements Reference Vector, Journal of Computer and System Technology, Volume 24, Number 2, March 2009.
+9. [**SCI**]BangYu Wu, Chi-Hung Chi, Shijie Xu, Ming Gu, JiaGuang Sun, Fast Service Selection Based on Multi-Dimensional QoS Requirements Reference Vector, Journal of Computer and System Technology, Volume 24, Number 2, March 2009.
 
 10. Shijie Xu, Chi-Hung Chi, Cheng Qian, Chen Ding, Selection Strategy of Rescue Servers Under Hot-Spot Congestion, 2009 Fourth International Conference on Internet and Web Applications and Services, Venice/Mestre, 2009, pp. 468-473.
 
@@ -114,23 +124,26 @@ __CS, B.Sc. NorthWest University, China__
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ## Selected Patents
-- Shijie Xu, Qi Li, Xuefeng Song. Data Migration in a Storage Network. JP2016528598A, CN105359481, US-9444891. **Granted** 
-- Shijie Xu, Qi li, Xuefeng song.  Meta-app to Depict Cloud Environment Dependencies to Facilicate a Service Environment Rebuild. CN104272704, KR101617116B1, US-9118677 **Granted**
-- Shijie Xu, Qi Li, Xuefeng Song. Formation of Guilds in a Cloud Computing Environment. KR20160027055, US9455868 **Granted**
-- Shijie Xu, Qi Li, Xuefeng Song. Virtual Machine Migration Based on Communication from Nodes. PCT/CN2014/079736, WO2015188346, US9578131 **Granted**
-- Shijie Xu, Daniel Heidinga, and David Bremner. Method Handle Just-in-time compilation from bytecode to bytecode for efficient native just-in-time compilation. CA8-2016-0002 
-- Shijie Xu, Daniel Heidinga, and David Bremner. Online Method Handle Deduplication System for Dynamic JVM Language Implementations. CA9-2016-0104US1
-- Shijie Xu, Xuefeng Song. Parting Data to Improve System Performance. CN104508636, US20140337288 
-- Shijie Xu, Qi Li, Xuefeng Song. Compilation of Application Into Multiple Instruction Sets for a Heterogeneous Processor. PCT/CN2014/074114, WO2015143641
-- Shijie Xu, Qi Li, Xuefeng Song. Data Cache on a Cloud Platform. US20150312368
-- Shijie Xu, Jie Chen, Qi Li, Xuefeng Song. Scene Image Generator. PCT/CN2014/088281, WO2016054800, US20160253832
-- Guang Yao, Shijie Xu, Qi Li Xuefeng Song, Malicious Virtual Machine Alert Generator. US20160255103
-- Guang yao, Shijie Xu, Xuefeng Song, Network Controller Security Monitor. WO2016106480, US20160337247
+1. Shijie Xu; Hui Wang; Xiuhui Han, Learning effect display method and device and computer storage medium, 202110350123.8
+2. Shijie Xu; Xianglong Meng; Wei Zhao; Yajun Wang, Data Access method and device, storage, medium and Server,  201910563384.0 (2021-2 granted)
+3. Shijie Xu, Daniel Heidinga, and David Bremner. Method Handle Just-in-time compilation from bytecode to bytecode for efficient native just-in-time compilation.  US10649797B2(2020-05 granted)
+4. Shijie Xu, Daniel Heidinga, and David Bremner. Online Method Handle Deduplication System for Dynamic JVM Language Implementations. US10649797B2(2020-5 granted)
+5. Shijie Xu, Qi Li, Xuefeng Song. Data Migration in a Storage Network. PCT/CN2013/078576, JP2016528598A, CN105359481, US-9444891.(2015-01 granted)
+6. Shijie Xu, Qi li, Xuefeng song. Meta-app to Depict Cloud Environment Dependencies to Facilicate a Service Environment Rebuild. CN104272704, KR101617116B1, US-9118677,PCT/CN2013/078576(2015-8 granted)
+7. Shijie Xu, Qi Li, Xuefeng Song. Formation of Guilds in a Cloud Computing Environment.  PCT/CN2013/078578， KR20160027055, US9455868(2015-1 granted)
+8. Shijie Xu, Qi Li, Xuefeng Song. Virtual Machine Migration Based on Communication from Nodes. CT/CN2014/079736, WO2015188346, US9578131（2017-2 granted）
+9. Shijie Xu, Xuefeng Song. Parting Data to Improve System Performance. PCT/CN2012/079407,CN104508636, US20140337288(2014-2 granted)
+10. Shijie Xu, Qi Li, Xuefeng Song. Compilation of Application Into Multiple Instruction Sets for a Heterogeneous Processor.PCT/CN2014/074114, WO2015143641(2014 granted)
+11. Shijie Xu, Qi Li, Xuefeng Song. Data Cache on a Cloud Platform. US20150312368 (2015-5 granted)
+12. Shijie Xu, Jie Chen, Qi Li, Xuefeng Song. Scene Image Generator. PCT/CN2014/088281, WO2016054800, US20160253832
+13. Guang Yao, Shijie Xu, Qi Li Xuefeng Song, Malicious Virtual Machine Alert Generator. US9819690B2(2017-3 granted)
+14. Guang yao, Shijie Xu, Xuefeng Song, Network Controller Security Monitor. WO2016106480,  US9781042B2 (2017-10 granted)
 
+## Reviews
+- IEEE Transactions on Parallel and Distributed Systems (TPDS) (2017, 2018, 2019) 
+- IEEE International Symposium on Rapid System Prototyping (RSP) (2017, 2018)
 
 
 <!-- ### Footer
 
 Last updated: May 2018 -->
-
-
