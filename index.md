@@ -43,7 +43,7 @@ twitter: <a href="https://twitter.com/wodaxia"> @wodaxia</a> | stackoverflow： 
     As a tech leader&architect for platform team, I
     - design and build architecture of Onestop Orchestration Platform(OSP) from scratch, an Enterprise-Level Web SaaS to enable financial customers setup business workflows to conduct AML&KYC&KYB, and fulfill financial regulation in Southeast Asia countries. OSP achieved initial four angel customers with SLA 99% after MVP.
     - setup and manage platform team up to 25 engineers and QAs, ensuring they stay on track to meet team goals and deadlines, while also providing guidance and mentorship to help them develop their skills.
-    - Responsible for complete System and Organization Control (SOC2) audit. 
+    - Responsible for complete Service Organization Control (SOC2) audit. 
     - As a motivated engineer with passions for new ideas and technologies, I have built Proof of Concepts (POCs) for Decentralized Identifiers (DID), Zero-Knowledge Proofs (ZKP), and Knowledge Graphs with ChatGPT. These tools have been used for risk identification and anti-money laundering(AML).
  
 - `2017, Dec -2021, Mar`,  Sr. Architect, __VIPKID__, Beijing
